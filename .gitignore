@@ -211,3 +211,9 @@ __marimo__/
 
 # Datafiles
 *.csv
+
+# Office files
+*.docx
+*.xlsx
+*.pptx
+*.ods
